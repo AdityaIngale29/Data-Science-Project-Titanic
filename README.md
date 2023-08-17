@@ -1,1 +1,1 @@
-Here are all the Data Science Self Projects I did.
+These projects are made by Aditya Ingale.
